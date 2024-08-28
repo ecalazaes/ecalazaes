@@ -1,16 +1,27 @@
-## Hi there 👋
+# Erick Calazães
 
-<!--
-**ecalazaes/ecalazaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑‍💼 **Estudante de Análise e Desenvolvimento de Sistemas - Back-End**  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💙 Stack:
+
+- **Back-end:** Java | Spring Boot
+- **Front-end:** HTML | CSS | JavaScript | Angular
+- **Banco de Dados:** MySQL | MongoDB | H2
+
+ ## 🛠️ Ferramentas:
+ 
+- IntelliJ
+- Postman
+- Git
+
+## 📚 Aprendendo:
+
+- Testes
+- Docker
+- AWS
+
+## Contatos!
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/erick-calaz%C3%A3es-977651207)](https://br.linkedin.com/in/erick-calaz%C3%A3es-977651207)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ecalazaes@gmail.com)](mailto:ecalazaes@gmail.com)
+  
