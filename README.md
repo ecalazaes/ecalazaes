@@ -6,7 +6,9 @@
 ## 💙 Stack:
 
 - **Back-end:** Java | Spring Boot
+
 - **Front-end:** HTML | CSS | JavaScript | Angular
+
 - **Banco de Dados:** MySQL | MongoDB | H2
 
  ## 🛠️ Ferramentas:
