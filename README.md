@@ -1,7 +1,4 @@
-# Erick Calazães
-
 🧑‍💼 **Estudante de Análise e Desenvolvimento de Sistemas - Back-End**  
-
 
 ## 💙 Stack:
 
