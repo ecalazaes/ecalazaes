@@ -2,11 +2,11 @@
 
 ## 💙 Stack:
 
-- **Back-end:** Java | Spring Boot | Python
+- **Back-end:** Java | Spring Boot |
 
 - **Front-end:** HTML | CSS | Tailwind/Bootstrap | JavaScript | Angular | ReactJs
 
-- **Banco de Dados:** MySQL | MongoDB | H2
+- **Banco de Dados:** MySQL | MongoDB | SQL Server | PostgreSQL | H2 Database 
 
 - **Testes:** JUnit | Mockito | Selenium
 
