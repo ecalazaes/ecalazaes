@@ -15,6 +15,7 @@
 - Docker
 - Postman
 - Git
+- IntelliJ
 
 ## 📚 Aprendendo:
 
