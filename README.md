@@ -19,9 +19,9 @@
 
 ## 📚 Aprendendo:
 
+- Jenkins
 - AWS
-- N8N
-- WordPress
+- SonarQube
 
 ## Contatos!
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/ecalazaes)](https://br.linkedin.com/in/ecalazaes)
