@@ -2,23 +2,25 @@
 
 ## 💙 Stack:
 
-- **Back-end:** Java | Spring Boot
+- **Back-end:** Java | Spring Boot | Python
 
-- **Front-end:** HTML | CSS | JavaScript | Angular
+- **Front-end:** HTML | CSS | Tailwind/Bootstrap | JavaScript | Angular | ReactJs
 
 - **Banco de Dados:** MySQL | MongoDB | H2
 
+- **Testes:** JUnit | Mockito | Selenium
+
  ## 🛠️ Ferramentas:
  
-- IntelliJ
+- Docker
 - Postman
 - Git
 
 ## 📚 Aprendendo:
 
-- Testes
-- Docker
 - AWS
+- N8N
+- WordPress
 
 ## Contatos!
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/ecalazaes)](https://br.linkedin.com/in/ecalazaes)
