@@ -16,6 +16,7 @@
 - Postman
 - Git
 - IntelliJ
+- WebStorm
 
 ## 📚 Aprendendo:
 
