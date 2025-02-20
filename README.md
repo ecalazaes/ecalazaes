@@ -2,9 +2,9 @@
 
 ## 💙 Stack:
 
-- **Back-end:** Java | Spring Boot
+- **Back-end:** Java Spring Boot | Node JS Express
 
-- **Front-end:** HTML | Tailwind/Bootstrap | Angular | ReactJs
+- **Front-end:** HTML | Tailwind/Bootstrap | Angular |
 
 - **Banco de Dados:** MySQL | MongoDB | SQL Server | PostgreSQL | H2 Database 
 
@@ -20,7 +20,6 @@
 
 ## 📚 Aprendendo:
 
-- NodeJS
 - ReactJS
 - AWS
 
